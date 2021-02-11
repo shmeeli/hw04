@@ -1,0 +1,11 @@
+lib/practice_web/router.ex:23:    # TODO: Palindrome route
+lib/practice_web/controllers/page_controller.ex:24:  # TODO: Add an action for palindrome.
+lib/practice_web/controllers/page_controller.ex:25:  # TODO: Add a template for palindrome over in lib/*_web/templates/page/??.html.eex
+lib/practice_web/templates/page/index.html.eex:33:    <p>TODO: Add a form here that checks if a string is a palindrome.</p>
+lib/practice.ex:24:  # TODO: Add a palindrome? function.
+hw04.nginx:5:    # TODO: This should be your server name.
+config/prod.exs:13:# TODO: Fix your hostname in the URL below
+start.sh:10:# TODO: Enable this script by removing the above.
+start.sh:24:# TODO: Add a systemd service file
+test/practice_web/controllers/page_controller_test.exs:24:  # TODO: Write a controller test for palindrome.
+test/practice/practice_test.exs:30:  # TODO: Add two unit tests for palindrome.
